@@ -1,7 +1,7 @@
 
 {
-	"author": "Med Amine",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Med Amine",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
